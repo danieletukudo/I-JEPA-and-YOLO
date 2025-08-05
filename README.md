@@ -320,41 +320,6 @@ for image_path in image_list:
    batch_size = 4  # Adjust based on memory
    ```
 
-## 🚀 Future Improvements
 
-### Planned Enhancements
-1. **Multi-class Detection**: Support for different tumor types
-2. **Real-time Processing**: Optimize for video streams
-3. **Ensemble Methods**: Combine multiple detection approaches
-4. **Advanced Post-processing**: Implement more sophisticated NMS
-5. **Web Interface**: Create a user-friendly web application
 
-### Research Directions
-1. **Attention Mechanisms**: Add attention layers to I-JEPA features
-2. **Knowledge Distillation**: Transfer learning from larger models
-3. **Data Augmentation**: Implement medical image-specific augmentations
-4. **Explainability**: Add Grad-CAM visualizations
-
-## 📚 References
-
-- **I-JEPA Paper**: [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243)
-- **YOLOv8**: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
-- **Brain Tumor Dataset**: Roboflow Brain Tumor Detector v1
-
-## 🤝 Contributing
-
-To contribute to this project:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-**Note**: This system is designed for research and educational purposes. For clinical use, additional validation and regulatory compliance are required. # I-JEPA-and-YOLO
+# I-JEPA-and-YOLO
