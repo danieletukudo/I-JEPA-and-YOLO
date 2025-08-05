@@ -319,7 +319,4 @@ for image_path in image_list:
    # Process multiple images together
    batch_size = 4  # Adjust based on memory
    ```
-
-
-
 # I-JEPA-and-YOLO
