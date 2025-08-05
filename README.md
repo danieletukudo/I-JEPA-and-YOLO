@@ -1,5 +1,5 @@
 # I-JEPA + YOLOv8 Brain Tumor Detection System
-
+![Detection Comparison](detection_comparison.png)
 ## Overview
 
 This project implements a brain tumor detection system that combines **I-JEPA (Image Joint Embedding Predictive Architecture)** as a feature extraction backbone with **YOLOv8** for object detection. The system is designed to detect brain tumors in medical images using self-supervised learning features from I-JEPA and the efficient detection capabilities of YOLOv8.
