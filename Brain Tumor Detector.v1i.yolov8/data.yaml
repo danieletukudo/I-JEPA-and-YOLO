@@ -1,0 +1,13 @@
+train: /Users/danielsamuel/i-jepa/Brain Tumor Detector.v1i.yolov8/train/images
+val: /Users/danielsamuel/i-jepa/Brain Tumor Detector.v1i.yolov8/valid/images
+test: /Users/danielsamuel/i-jepa/Brain Tumor Detector.v1i.yolov8/test/images
+
+nc: 1
+names: ['braintumor']
+
+roboflow:
+  workspace: dapak
+  project: brain-tumor-detector-qt31n
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dapak/brain-tumor-detector-qt31n/dataset/1
